@@ -31,7 +31,7 @@ const projectData = [
         type: "macro",
         name: "Rectangle_V3",
         description: "Rectangle_V3 have All Direction Control left, Right, Top, Bottom.",
-        file: "Macro/Rectangle_V3.zip" // Ensure this file exists in your Macro folder
+        file: "Rectangle_V3.zip" // Ensure this file exists in your Macro folder
     },
 
 //Plugins
@@ -59,6 +59,7 @@ const projectData = [
     },
     // Add more items here...
 ];
+
 
 
 
