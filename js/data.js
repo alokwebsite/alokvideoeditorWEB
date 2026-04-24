@@ -33,6 +33,7 @@ const projectData = [
         description: "Rectangle_V3 have All Direction Control left, Right, Top, Bottom.",
         file: "Rectangle_V3.zip" // Ensure this file exists in your Macro folder
     },
+    /**
     {
         id: "Text_Infinite_Scroller_Macro",
         type: "macro",
@@ -40,9 +41,17 @@ const projectData = [
         description: "Text Infinite Scroller is a simple DaVinci Resolve (Fusion) macro that creates smooth, continuous scrolling text with a seamless infinite loop. Easily control speed and direction for clean, professional animations.",
         file: "Text_Infinite_Scroller.zip" // Ensure this file exists in your Macro folder
     },
+    */
 
 //Plugins
     
+    {
+        id: "TextSelector",
+        type: "plugin",
+        name: "TextSelector",
+        description: "This is Text selector not a text selector plugin this is like highlight text.",
+        file: "Text Selector.zip"
+    },
     {
         id: "CinemaBar",
         type: "plugin",
