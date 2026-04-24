@@ -75,21 +75,3 @@ const projectData = [
     },
     // Add more items here...
 ];
-
-
-
-Text_Infinite_Scroller.zip
-
-
-
-
-
-
-
-
-
-
-
-
-
-
